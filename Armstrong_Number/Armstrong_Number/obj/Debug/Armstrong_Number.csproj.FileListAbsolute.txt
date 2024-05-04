@@ -1,0 +1,7 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.exe.config
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.pdb

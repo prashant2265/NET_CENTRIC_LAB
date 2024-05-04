@@ -1,0 +1,7 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\obj\Debug\Rectangle_Lab-2.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\obj\Debug\Rectangle_Lab-2.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\bin\Debug\Rectangle_Lab-2.exe.config
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\bin\Debug\Rectangle_Lab-2.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\bin\Debug\Rectangle_Lab-2.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\obj\Debug\Rectangle_Lab-2.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Rectangle_Lab-2_ques2\Rectangle_Lab-2\obj\Debug\Rectangle_Lab-2.pdb

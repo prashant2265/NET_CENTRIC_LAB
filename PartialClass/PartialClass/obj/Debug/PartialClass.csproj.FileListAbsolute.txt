@@ -1,0 +1,2 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\PartialClass\PartialClass\obj\Debug\PartialClass.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\PartialClass\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache

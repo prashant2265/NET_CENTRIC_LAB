@@ -1,0 +1,7 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\LINQ\LINQ\obj\Debug\LINQ.pdb

@@ -1,0 +1,17 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.Form1.resources
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.csproj.GenerateResource.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.AssemblyInfoInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.AssemblyInfo.cs
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\bin\Debug\net8.0-windows\WindowsForms.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\bin\Debug\net8.0-windows\WindowsForms.deps.json
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\bin\Debug\net8.0-windows\WindowsForms.runtimeconfig.json
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\bin\Debug\net8.0-windows\WindowsForms.dll
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\bin\Debug\net8.0-windows\WindowsForms.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.dll
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\refint\WindowsForms.dll
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.genruntimeconfig.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\ref\WindowsForms.dll
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\WindowsForms\WindowsForms\obj\Debug\net8.0-windows\WindowsForms.Form3.resources

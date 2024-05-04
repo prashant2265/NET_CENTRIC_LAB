@@ -1,0 +1,7 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\bin\Debug\Exceptional_Handling.exe.config
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\bin\Debug\Exceptional_Handling.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\bin\Debug\Exceptional_Handling.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\obj\Debug\Exceptional_Handling.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\obj\Debug\Exceptional_Handling.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\obj\Debug\Exceptional_Handling.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Exceptional_Handling\Exceptional_Handling\obj\Debug\Exceptional_Handling.pdb

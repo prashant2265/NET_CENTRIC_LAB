@@ -1,0 +1,7 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\Constructor\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|c:\\a_bscworkouts\\notes pdf\\6th semester\\net centric computing\\programs\\windowsforms\\windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A6747B-651A-4CC7-A069-4B436BA9099D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Form3.cs",
+              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form3.cs",
+              "RelativeToolTip": "WindowsForms\\Form3.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:47:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Form3.cs",
+              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsForms\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:44:25.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form1.cs",
+              "RelativeToolTip": "WindowsForms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T03:15:11.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\WindowsForms\\WindowsForms\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T02:59:08.207Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\bin\Debug\crud_form.exe.config
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\bin\Debug\crud_form.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\bin\Debug\crud_form.pdb
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.csproj.AssemblyReference.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.update.resources
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.Properties.Resources.resources
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.csproj.GenerateResource.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.csproj.CoreCompileInputs.cache
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.exe
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\crud_form\crud_form\obj\Debug\crud_form.pdb
