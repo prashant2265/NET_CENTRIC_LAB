@@ -36,3 +36,4 @@ C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\MVC-CRUD\
 C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\MVC-CRUD\MVC-CRUD\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\MVC-CRUD\MVC-CRUD\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\MVC-CRUD\MVC-CRUD\obj\Debug\net8.0\MVC-CRUD.csproj.Up2Date
+C:\A_BScWorkouts\Notes Pdf\6th Semester\NET Centric Computing\Programs\MVC-CRUD\MVC-CRUD\obj\Debug\net8.0\MVC-CRUD.sourcelink.json
