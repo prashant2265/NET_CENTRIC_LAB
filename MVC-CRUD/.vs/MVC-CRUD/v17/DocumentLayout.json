@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|c:\\a_bscworkouts\\notes pdf\\6th semester\\net centric computing\\programs\\mvc-crud\\mvc-crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -19,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|c:\\a_bscworkouts\\notes pdf\\6th semester\\net centric computing\\programs\\mvc-crud\\mvc-crud\\models\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\models\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\models\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|solutionrelative:mvc-crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9979EFDF-D634-4954-AC19-131C99DD132F}|MVC-CRUD\\MVC-CRUD.csproj|C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\mvc-crud\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MVC-CRUD\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "MVC-CRUD\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAowDIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T16:54:18.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVC-CRUD\\Controllers\\HomeController.cs",
@@ -83,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmployeeDataAccessLayer.cs",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Models\\EmployeeDataAccessLayer.cs",
               "RelativeDocumentMoniker": "MVC-CRUD\\Models\\EmployeeDataAccessLayer.cs",
@@ -91,12 +78,11 @@
               "RelativeToolTip": "MVC-CRUD\\Models\\EmployeeDataAccessLayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T16:22:17.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T16:22:17.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC-CRUD\\Views\\Employee\\Create.cshtml",
@@ -104,24 +90,24 @@
               "RelativeToolTip": "MVC-CRUD\\Views\\Employee\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T16:53:26.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T16:53:26.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Program.cs",
               "RelativeDocumentMoniker": "MVC-CRUD\\Program.cs",
               "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Program.cs",
               "RelativeToolTip": "MVC-CRUD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:48:33.39Z"
+              "WhenOpened": "2024-05-03T17:48:33.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "MVC-CRUD\\Views\\Employee\\Details.cshtml",
@@ -129,12 +115,11 @@
               "RelativeToolTip": "MVC-CRUD\\Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAABEAAAAAAAAAAAAowB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T16:54:07.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T16:54:07.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC-CRUD\\Views\\Employee\\Index.cshtml",
@@ -144,6 +129,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-03T16:51:35.574Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVC-CRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:19:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC-CRUD\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MVC-CRUD\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowDIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T16:54:18.854Z"
             },
             {
               "$type": "Document",
@@ -159,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "MVC-CRUD\\Models\\Employee.cs",
@@ -168,18 +178,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T16:22:00.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "MVC-CRUD\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\A_BScWorkouts\\Notes Pdf\\6th Semester\\NET Centric Computing\\Programs\\MVC-CRUD\\MVC-CRUD\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "MVC-CRUD\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T16:19:21.569Z"
             },
             {
               "$type": "Document",
